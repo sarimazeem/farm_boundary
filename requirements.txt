@@ -1,3 +1,4 @@
+streamlit==1.16.0
 gdal==3.0.2
 numpy==1.23.5
 geos==0.2.3
