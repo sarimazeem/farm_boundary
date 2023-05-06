@@ -1,0 +1,12 @@
+opencv-python==4.7.0.72
+Pillow==9.4.0
+tensorflow==2.10.0
+scikit-image==0.19.3
+scikit-learn==1.2.2
+glob2==0.7
+streamlit==1.16.0
+pandas==1.5.3
+geopandas==0.12.2
+GDAL==3.0.2 
+geos==3.8.0
+numpy==1.23.5
