@@ -1,4 +1,4 @@
-libgdal==3.0.2
+gdal==3.0.2
 numpy==1.23.5
 geos==0.2.3
 opencv-python==4.7.0.72
