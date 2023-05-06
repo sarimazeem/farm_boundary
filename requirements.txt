@@ -1,6 +1,6 @@
+numpy==1.23.5
 gdal==3.0.2 
 geos==3.8.0
-numpy==1.23.5
 opencv-python==4.7.0.72
 Pillow==9.4.0
 tensorflow==2.10.0
