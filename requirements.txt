@@ -1,3 +1,4 @@
+gdown==4.7.1
 rasterio==1.3.6
 opencv-python-headless==4.5.4.60
 geopandas== 0.12.2
