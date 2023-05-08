@@ -1,6 +1,5 @@
-libgdal-dev
+pygdal==1.11.3
 numpy==1.23.5
-gdal
 opencv-python==4.7.0.72
 Pillow==9.4.0
 tensorflow==2.10.0
