@@ -1,4 +1,4 @@
-libgdal-dev==3.6.2
+geopandas== 0.12.2
 numpy==1.23.5
 opencv-python==4.7.0.72
 Pillow==9.4.0
