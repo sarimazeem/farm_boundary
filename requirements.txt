@@ -1,6 +1,6 @@
+opencv-python-headless==4.5.4.60
 geopandas== 0.12.2
 numpy==1.23.5
-opencv-python-headless==4.5.4.60
 Pillow==9.4.0
 tensorflow==2.10.0
 scikit-image==0.19.3
